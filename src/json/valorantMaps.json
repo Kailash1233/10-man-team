@@ -1,0 +1,38 @@
+[
+  {
+    "name": "ASCENT",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Ascent.webp"
+  },
+  {
+    "name": "BIND",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Bind.webp"
+  },
+  {
+    "name": "BREEZE",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Breeze.webp"
+  },
+  {
+    "name": "FRACTURE",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Fracture.webp"
+  },
+  {
+    "name": "HAVEN",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Haven.webp"
+  },
+  {
+    "name": "ICEBOX",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Icebox.webp"
+  },
+  {
+    "name": "LOTUS",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Lotus.webp"
+  },
+  {
+    "name": "SPLIT",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Split.webp"
+  },
+  {
+    "name": "SUNSET",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-maps/Loading_Screen_Sunset.webp"
+  }
+]

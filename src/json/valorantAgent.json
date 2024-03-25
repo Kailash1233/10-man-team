@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Astra",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Astra.png"
+  },
+  {
+    "name": "Breach",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Breach.png"
+  },
+  {
+    "name": "Brimstone",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Brimstone.png"
+  },
+  {
+    "name": "Chamber",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Chamber.png"
+  },
+  {
+    "name": "Cypher",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Cypher.png"
+  },
+  {
+    "name": "Deadlock",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Deadlock.png"
+  },
+  {
+    "name": "Fade",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Fade.png"
+  },
+  {
+    "name": "Gekko",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Gekko.png"
+  },
+  {
+    "name": "Harbor",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Harbor.png"
+  },
+  {
+    "name": "Iso",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Iso.png"
+  },
+  {
+    "name": "Jett",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Jett.png"
+  },
+  {
+    "name": "Kayo",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Kayo.png"
+  },
+  {
+    "name": "Killjoy",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Killjoy.png"
+  },
+  {
+    "name": "Neon",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Neon.png"
+  },
+  {
+    "name": "Omen",
+    "image": "https://github.com/yohanesrioirsan/10man/blob/master/src/assets/valorant-agents/Omen.png?raw=true"
+  },
+  {
+    "name": "Phoenix",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Phoenix.png"
+  },
+  {
+    "name": "Raze",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Raze.png"
+  },
+  {
+    "name": "Reyna",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Reyna.png"
+  },
+  {
+    "name": "Sage",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Sage.png"
+  },
+  {
+    "name": "Skye",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Skye.png"
+  },
+  {
+    "name": "Sova",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Sova.png"
+  },
+  {
+    "name": "Viper",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Viper.png"
+  },
+  {
+    "name": "Yoru",
+    "image": "https://raw.githubusercontent.com/yohanesrioirsan/10man/master/src/assets/valorant-agents/Yoru.png"
+  }
+]
