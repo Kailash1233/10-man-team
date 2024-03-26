@@ -6,17 +6,13 @@ function Header() {
     <div className="header-hero">
       <div className="header-hero-content">
         <div className="header-text">
-          <h1>
-            Generate 10 Man
-            <br />
-            For Custom Fun Match
-          </h1>
+          <h1>Generate a team of 10 individuals for a custom fun match!</h1>
         </div>
         <div className="header-sub-text">
           <p>
-            Gather 10 (or more.) people or your best friends and generate your
-            team randomly here. Then, have fun together with the team determined
-            by our website!
+            Gather your 10 best friends or more and let's create your team
+            randomly right here! Then, let's have a blast together with the team
+            selected by our website!
           </p>
         </div>
         <a href="#generate">

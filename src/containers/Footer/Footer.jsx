@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <p>From player to player</p>
-      <h4>Made with love - 2024 Yohanes Rio Irsan</h4>
+      <h4>Customized by Kailash G</h4>
     </footer>
   );
 }
