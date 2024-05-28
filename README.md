@@ -7,27 +7,6 @@
 - Generate Random Valorant Agents
 - Generate Random Valorant Maps
   
-![image](https://github.com/yohanesrioirsan/10man/assets/82473445/ca4a1e38-7573-4090-b4c0-f3d27b9063f3)
-
-# Input
-![image](https://github.com/yohanesrioirsan/10man/assets/82473445/91f6a64b-dc8c-4550-9729-b56f24704f0e)
-
-
-# Output
-- Config [Generate Team Name: No, Generate Valorant Agent: No, Generate Valorant Maps: No]
-
-![image](https://github.com/yohanesrioirsan/10man/assets/82473445/7614b76c-ca79-453a-b4e6-b7eaee5af43f)
-
-- Config [Generate Team Name: Yes, Generate Valorant Agent: Yes, Generate Valorant Maps: Yes]
-
-
-![image](https://github.com/yohanesrioirsan/10man/assets/82473445/220c0761-26c1-495d-a1fb-50f736f7400a)
-
-# Project Design
-
-![Web 1366 – 1](https://github.com/yohanesrioirsan/10man/assets/82473445/417e9bc5-7dd2-4a35-916a-a37479e8cc6d)
-
-
 # Build with React + Vite, Bootstrap
 How To Run : 
 - Git Clone This repository
